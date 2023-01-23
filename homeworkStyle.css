@@ -1,0 +1,137 @@
+*
+{
+    margin: 0; padding: 0;
+}
+.sayt
+{
+    height: 1000px;
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(170, 170, 170);
+}
+.header
+{
+    height: 250px;
+    border: 1px solid rgb(255, 253, 253);
+    background-color: rgb(3, 170, 248);
+}
+.login 
+{
+    height: 150px;
+    border: 1px solid rgb(255, 254, 254);
+    background-color: rgb(214, 212, 212);
+}
+.first
+{
+    height: 80px;
+    width: 150px;
+    border: 1px solid gray;
+    border-radius: 7px;
+    margin: 30px 22px;
+    float: left;
+    background-color: rgb(255, 255, 255)
+}
+.first input
+{
+    height: 25px;
+    width: 80px;
+    padding-left: 5px;
+    border: 1px solid gray;
+    outline: none;
+    border-radius: 5px;
+}
+.first button
+{
+    height: 25px;
+    width: 50px;
+    border: 1px solid gray;
+    border-radius: 50px;
+}
+.first .find
+{
+    height: 25px;
+    border-radius: 50px;
+    border: 1px solid gray;
+}
+.first h3
+{
+    text-align: center;
+    margin-top: 10px;
+    color: rgb(231, 7, 7);
+}
+.first .support
+{
+    width: 90px;
+    height: 25px;
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin: 12px 30px;
+}
+.Three_contact
+{
+    height: 400px;
+    border: 1px solid rgb(170, 170, 170);
+}
+.bottom_navbar
+{
+    height: 200px;
+    border: 1px solid rgb(170, 170, 170);
+}
+.top_navbar
+{
+    height: 220px;
+    width: 190px;
+    border: 1px solid rgb(255, 255, 255);
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+.toptitle
+{
+    height: 14.3%;
+    width: 99%;
+    border: 1px solid rgb(255, 153, 0);
+    background-color: rgb(255, 153, 0);
+}
+.toptitle p
+{
+    color: rgb(255, 255, 255);
+    line-height: 180%;
+    text-align: center;
+}
+.top_navbarr
+{
+    height: 85.7%;
+}
+.top_navbarr ul
+{
+    height: 100%;
+    width: 100%;
+    list-style: none;
+    
+    
+}
+.top_navbarr ul li
+{
+    height: 16.6%;
+    width: 100%;
+    
+        
+}
+.top_navbarr ul li a
+{
+    border: 1px solid rgb(255, 255, 255);
+    height: 97%;
+    width: 99%;
+    display: block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    line-height: 180%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+}
